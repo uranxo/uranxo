@@ -7,9 +7,9 @@ Welcome to my GitHub profile! I'm a young enthusiast learning how to develop. I'
 ## 🚀 About Me
 
 - 🔭 I’m currently working on: A chemistry related C++ library called [chemistry-library](https://github.com/uranxo/chemistry-library)
-- 🌱 I’m currently learning: [C++, HTML, CSS, JavaScript]
+- 🌱 I’m currently learning: C++, HTML, CSS, JavaScript
 - 👯 I’m looking to collaborate on: Open-source projects, especially in my chemistry related C++ library: [chemistry-library](https://github.com/uranxo/chemistry-library)
-- 📫 How to reach me: [uranxo07@gmail.com]
+- 📫 How to reach me: uranxo07@gmail.com
 
 ---
 
